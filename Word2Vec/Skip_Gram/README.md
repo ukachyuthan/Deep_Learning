@@ -1,0 +1,1 @@
+  I worked on the UDACITY project to use the Skip Gram algorithm to identify the realtionship between different words. Using an embedding layer the network was trained to identify the desired relaionships betweens words. The code for the same is in this folder.
